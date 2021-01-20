@@ -38,4 +38,5 @@ A simple Game of Life implementation in Pygame
      - [ ] acorn
      - [ ] oscillator
      - [ ] medium spaceship
+   - [ ] UI
       
